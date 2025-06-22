@@ -23,7 +23,8 @@
 ---
 
 ## 🌐 Encuéntrame en:
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/TU_USUARIO_LINKEDIN)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/Vanessa55-rgb)
+
 
 ---
 
