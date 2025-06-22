@@ -9,7 +9,7 @@
 ## 🚀 Sobre mí
 - 🌱 Actualmente estoy aprendiendo **JavaScript**
 - 🎯 Buscando crecer profesionalmente en el desarrollo de software
-- 📫 ¿Quieres contactarme? → [vanessagomezlopez5@gmail.com](mailto:vanessagomezlopez5@gmail.com)
+- 📫 ¿Quieres contactarme? → [vanessagomezlopez5@gmail.com](mailto:vanessagomezlopez55@gmail.com)
 
 ---
 
