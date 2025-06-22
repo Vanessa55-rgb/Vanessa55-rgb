@@ -25,5 +25,5 @@
 
 ---
 
-✨ **"Construyendo mi camino en el mundo de la tecnología, un proyecto a la vez."**
+✨ **"Construyendo mi camino en el mundo de la tecnología, un proyecto a la vez"**
 
