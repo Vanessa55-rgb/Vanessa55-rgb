@@ -19,14 +19,11 @@
 [![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)](https://www.w3schools.com/html/default.asp)
 [![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)](https://www.w3schools.com/css/default.asp)
 
-
 ---
 
 ## 🌐 Encuéntrame en:
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/Vanessa55-rgb)
 
-
 ---
 
 ✨ **"Construyendo mi camino en el mundo de la tecnología, un proyecto a la vez"**
-
