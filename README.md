@@ -38,7 +38,7 @@ I have knowledge in **Python, HTML & CSS, JavaScript, and Databases**, and I am 
 
 ## 🌐 Connect with me  
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Vanessa55-rgb)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/](https://www.linkedin.com/in/vanessa-gomez-lopez-a7b804360?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app))  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]((https://www.linkedin.com/in/vanessa-gomez-lopez-a7b804360?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app))  
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vanessagomezlopez55@gmail.com)  
 
 ---
