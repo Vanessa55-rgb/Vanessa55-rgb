@@ -8,7 +8,7 @@
 
 ## 💡 About Me  
 Hello! I describe myself as someone passionate about learning and constantly improving my skills.  
-I am focused on **web development**, **databases**, and **WordPress**, while growing my expertise in **JavaScript** and software engineering.  
+I have knowledge in **Python, HTML & CSS, JavaScript, and Databases**, and I am continuously improving my skills in software engineering.  
 
 📫 How to reach me: **[vanessagomezlopez55@gmail.com](mailto:vanessagomezlopez55@gmail.com)**  
 
