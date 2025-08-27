@@ -54,9 +54,6 @@
   <a href="mailto:vanessagomezlopez55@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D63384?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://www.linkedin.com/in/vanessa-gomez-lopez-a7b804360?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-9B59B6?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
 </p>
 
 ---
