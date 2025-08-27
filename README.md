@@ -40,6 +40,7 @@
   <img src="https://img.icons8.com/color/48/figma.png" alt="Figma"/>
   <img src="https://img.icons8.com/color/48/wordpress.png" alt="WordPress"/>
   <img src="https://img.icons8.com/color/48/visual-studio-code-2019.png" alt="VSCode"/>
+  <img src="https://img.icons8.com/color/48/bootstrap.png" alt="Bootstrap"/>
 </p>
 
 ---
@@ -53,7 +54,7 @@
   <a href="mailto:vanessagomezlopez55@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D63384?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://www.linkedin.com/in/vanessa-gomez-lopez-a7b804360" target="_blank">
+  <a href="https://www.linkedin.com/in/vanessa-gomez-lopez-a7b804360?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-9B59B6?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>
