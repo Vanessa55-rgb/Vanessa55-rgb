@@ -38,7 +38,6 @@
 <p align="center">
   <img src="https://img.icons8.com/color/48/git.png" alt="Git"/>
   <img src="https://img.icons8.com/color/48/github.png" alt="GitHub"/>
-  <img src="https://img.icons8.com/color/48/dot-net.png" alt=".NET"/>
   <img src="https://img.icons8.com/color/48/figma.png" alt="Figma"/>
   <img src="https://img.icons8.com/color/48/wordpress.png" alt="WordPress"/>
   <img src="https://img.icons8.com/color/48/visual-studio-code-2019.png" alt="VSCode"/>
