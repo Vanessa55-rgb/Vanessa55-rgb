@@ -14,9 +14,9 @@
 
 ### ✨ About Me
 
-💡 I’m in my **6th semester** of Software Engineering and training with **Riwi**, where I build real-world software and grow as a developer.  
-🎯 I love **frontend**, creative design, and making interfaces come to life.  
-🌈 Always learning, always improving — I believe in **code with purpose and style**.
+💡 I’m currently in my **6th semester** of Software Engineering and training with **Riwi**, where I develop real-world projects and grow as a developer.  
+🎯 I’m passionate about **frontend development**, creative design, and bringing interfaces to life.  
+🌈 Always learning, always improving — I believe in **coding with purpose and style**.
 
 ---
 
@@ -29,6 +29,7 @@
   <img src="https://img.icons8.com/color/48/css3.png" alt="CSS"/>
   <img src="https://img.icons8.com/color/48/javascript.png" alt="JavaScript"/>
   <img src="https://img.icons8.com/color/48/python.png" alt="Python"/>
+  <img src="https://img.icons8.com/color/48/c-sharp-logo.png" alt="C#"/>
   <img src="https://img.icons8.com/color/48/mysql-logo.png" alt="MySQL"/>
 </p>
 
@@ -37,9 +38,11 @@
 <p align="center">
   <img src="https://img.icons8.com/color/48/git.png" alt="Git"/>
   <img src="https://img.icons8.com/color/48/github.png" alt="GitHub"/>
+  <img src="https://img.icons8.com/color/48/dot-net.png" alt=".NET"/>
   <img src="https://img.icons8.com/color/48/figma.png" alt="Figma"/>
   <img src="https://img.icons8.com/color/48/wordpress.png" alt="WordPress"/>
   <img src="https://img.icons8.com/color/48/visual-studio-code-2019.png" alt="VSCode"/>
+  <img src="https://img.icons8.com/color/48/visual-studio.png" alt="Visual Studio"/>
   <img src="https://img.icons8.com/color/48/bootstrap.png" alt="Bootstrap"/>
 </p>
 
@@ -72,4 +75,3 @@
 </p>
 
 <p align="center">✨ Building my tech journey, one purple pixel at a time ✨</p>
-
