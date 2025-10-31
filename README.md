@@ -1,48 +1,63 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=C084FC&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Vanessa+G%C3%B3mez!;Aspiring+Software+Developer+%F0%9F%92%BB;Learning+and+Growing+in+Tech+%F0%9F%8C%9F;Welcome+to+my+GitHub+space+%F0%9F%92%97" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=C084FC&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Vanessa+G%C3%B3mez!;Full+Stack+Software+Developer+%F0%9F%92%BB;Learning+and+Growing+in+Tech+%F0%9F%8C%9F;Welcome+to+my+GitHub+space+%F0%9F%92%97" alt="Typing SVG" />
 </p>
 
 <h1 align="center">💜 Vanessa Gómez López 💻</h1>
 
 <p align="center">
   🎓 Software Engineering Student at <strong>Fundación Universitaria María Cano</strong><br/>
-  👩‍💻 Coder in training at <strong>Riwi</strong><br/>
-  💕 Passionate about frontend development, design, and clean code.
+  👩‍💻 Developer in training at <strong>Riwi</strong><br/>
+  💕 Passionate about web development, design, and clean code.
 </p>
 
 ---
 
 ### ✨ About Me
 
-💡 I’m currently in my **6th semester** of Software Engineering and training with **Riwi**, where I develop real-world projects and grow as a developer.  
-🎯 I’m passionate about **frontend development**, creative design, and bringing interfaces to life.  
-🌈 Always learning, always improving — I believe in **coding with purpose and style**.
+💻 I’m a **Full Stack Software Developer** with experience in **C#, .NET, Python, JavaScript, SQL, Docker, and GitHub**, focused on developing secure, scalable, and intelligent web applications.  
+🚀 Passionate about creating **technological solutions** that optimize processes and generate real value through best practices, **agile methodologies**, and the power of **machine learning**.  
+🌱 I stand out for my **analytical mindset, adaptability, and innovative spirit**, always committed to continuous learning and professional growth.
 
 ---
 
 ### 🛠️ Languages & Tools I Use
 
 #### 💻 Programming Languages
-
 <p align="center">
   <img src="https://img.icons8.com/color/48/html-5.png" alt="HTML"/>
   <img src="https://img.icons8.com/color/48/css3.png" alt="CSS"/>
   <img src="https://img.icons8.com/color/48/javascript.png" alt="JavaScript"/>
   <img src="https://img.icons8.com/color/48/python.png" alt="Python"/>
   <img src="https://img.icons8.com/color/48/c-sharp-logo.png" alt="C#"/>
-  <img src="https://img.icons8.com/color/48/mysql-logo.png" alt="MySQL"/>
+  <img src="https://img.icons8.com/color/48/sql.png" alt="SQL"/>
 </p>
 
-#### 🧰 Tools & Technologies
+#### 🗄️ Databases
+<p align="center">
+  <img src="https://img.icons8.com/color/48/mysql-logo.png" alt="MySQL"/>
+  <img src="https://img.icons8.com/color/48/postgreesql.png" alt="PostgreSQL"/>
+</p>
 
+#### ⚙️ Frameworks & Technologies
+<p align="center">
+  <img src="https://img.icons8.com/color/48/dot-net.png" alt=".NET"/>
+  <img src="https://img.icons8.com/color/48/docker.png" alt="Docker"/>
+  <img src="https://img.icons8.com/color/48/bootstrap.png" alt="Bootstrap"/>
+  <img src="https://img.icons8.com/color/48/artificial-intelligence.png" alt="Machine Learning"/>
+</p>
+
+#### 🧰 Tools & Platforms
 <p align="center">
   <img src="https://img.icons8.com/color/48/git.png" alt="Git"/>
   <img src="https://img.icons8.com/color/48/github.png" alt="GitHub"/>
-  <img src="https://img.icons8.com/color/48/figma.png" alt="Figma"/>
-  <img src="https://img.icons8.com/color/48/wordpress.png" alt="WordPress"/>
   <img src="https://img.icons8.com/color/48/visual-studio-code-2019.png" alt="VSCode"/>
   <img src="https://img.icons8.com/color/48/visual-studio.png" alt="Visual Studio"/>
-  <img src="https://img.icons8.com/color/48/bootstrap.png" alt="Bootstrap"/>
+</p>
+
+#### 🎨 Design & Web Management
+<p align="center">
+  <img src="https://img.icons8.com/color/48/figma.png" alt="Figma"/>
+  <img src="https://img.icons8.com/color/48/wordpress.png" alt="WordPress"/>
 </p>
 
 ---
