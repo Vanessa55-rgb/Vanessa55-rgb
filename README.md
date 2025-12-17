@@ -12,11 +12,12 @@
 
 ---
 
-###✨ About Me
+### ✨ About Me
 
-💻 I’m a Full Stack Software Developer with experience in C#, .NET, Python, JavaScript, SQL, n8n, Docker, and GitHub, focused on developing secure, scalable, and optimized web applications.
-🚀 Passionate about creating technological solutions that automate processes, integrate APIs, and enhance databases, with a strong focus on machine learning and AI to improve the efficiency of solutions.
-🌱 Known for my analytical mindset, adaptability, and innovative spirit, always committed to continuous learning and professional growth.
+  💻 I’m a Full Stack Software Developer with experience in C#, .NET, Python, JavaScript, SQL, n8n, Docker, and GitHub, focused on developing secure, scalable, and optimized web applications.  
+  🚀 Passionate about creating technological solutions that automate processes, integrate APIs, and enhance databases, with a strong focus on machine learning and AI to improve the efficiency of solutions.  
+  🌱 Known for my analytical mindset, adaptability, and innovative spirit, always committed to continuous learning and professional growth.
+
 ---
 
 ### 🛠️ Languages & Tools I Use
